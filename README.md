@@ -7,3 +7,5 @@ Rather than aiming for a single unified system, this project embraces the contra
 This release is intended for enthusiasts of retro computing, software preservation, and experimental development across heterogeneous systems.
 
 Amiga, retro computing, PC software, cross-platform tools, utility software, demo scene, experimental software, systems programming, legacy systems, Windows tools, hobbyist development
+
+Look on the right under releases, theres a big list there with all the software. 
